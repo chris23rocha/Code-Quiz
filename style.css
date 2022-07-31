@@ -1,0 +1,14 @@
+.hs {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+.remainingtime {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+.wrapper-div {
+    margin: 150px auto 0 auto;
+    max-width: 500px;
+}
